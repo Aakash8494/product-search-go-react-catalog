@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+/backend/vendor/
+
+# Go binaries and build outputs
+/backend/bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Environment variables
+.env
+.env.local
+
+# macOS specific
+.DS_Store
+
+# IDEs and editors
+.vscode/
+.idea/
+EOF
